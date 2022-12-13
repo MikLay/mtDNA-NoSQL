@@ -1,4 +1,9 @@
-> НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ \"КИЄВО-МОГИЛЯНСЬКА АКАДЕМІЯ\"
+# mtDNA anylising with Neo4j tools
+
+Data parsing and processing was done with [Data import script](https://github.com/74R45/NoSQL2022_Lab)
+
+---
+### НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ \"КИЄВО-МОГИЛЯНСЬКА АКАДЕМІЯ\"
 
 ФАКУЛЬТЕТ ІНФОРМАТИКИ
 
@@ -15,8 +20,8 @@ height="2.3958333333333335in"}
 
 > «Аналіз ланцюжків мтДНК за допомогою Neo4j»
 >
-> Виконали:*\
-> *Федюченко Михайло\
+> Виконали:\
+> Федюченко Михайло\
 > Крещенко Тарас
 
 **Зміст**
@@ -90,8 +95,7 @@ height="2.3958333333333335in"}
 Код програми можна знайти за посиланням:
 [[https://github.com/74R45/NoSQL2022_Lab]{.underline}](https://github.com/74R45/NoSQL2022_Lab)
 
-![](./media/media/image2.png){width="2.9375in"
-height="2.5833333333333335in"}
+![](./media/media/image2.png)
 
 *Структура Scala-програми*
 
